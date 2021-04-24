@@ -118,6 +118,10 @@ A(?!B)  - Negative lookahead assertion. This matches the expression A only if it
 
 > Flags should be used first in the expression string.
 
+#### 5.8 re.finditer(pattern, string, flags=0)
+
+> Return an iterator yielding MatchObject instances over all non-overlapping matches for the RE pattern in string.
+
 ### Code Examples
 
 The code examples are found in the `re.ipynb` file
