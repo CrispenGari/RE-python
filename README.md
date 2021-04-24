@@ -6,7 +6,11 @@ Regular expression in python.
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
-<img src="https://img.shields.io/static/v1?label=package&message=javascript&color=purple"/>
+<img src="https://img.shields.io/static/v1?label=package&message=re&color=purple"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/CrispenGari/RE-python/blob/main/cover.png" alt="cover"/>
 </p>
 
 ### 1. Special characters
