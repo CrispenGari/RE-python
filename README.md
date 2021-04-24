@@ -4,6 +4,11 @@ Regular expression in python.
 
 > Regular expression are a powerful feature for text processing, they match patterns in a sentence.
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=language&message=python&color=green"/>
+<img src="https://img.shields.io/static/v1?label=package&message=javascript&color=purple"/>
+</p>
+
 ### 1. Special characters
 
 > The following are special characters in regular expressions.
